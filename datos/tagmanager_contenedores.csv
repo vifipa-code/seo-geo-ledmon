@@ -1,0 +1,93 @@
+﻿cuenta;cuenta_id;contenedor;id_publico;ultima_publicacion;n_etiquetas;tipos_etiqueta;ids_que_envia;ga4_cuenta_p1;ga4_usuarios_90d;prioridad;estado;recomendacion
+OCP;6002841830;mariscosgallego.es;GTM-W7S3G9H;2021-06-08;0;;;;;Limpieza;"Contenedor vacío; hay otro contenedor con etiquetas para la misma web";Borrar (duplicado vacío)
+Apelmatic;6004299720;alpematicvigo.es;GTM-PL7DG93;2021-07-02;0;;;;;Limpieza;"Contenedor vacío; hay otro contenedor con etiquetas para la misma web";Borrar (duplicado vacío)
+Proyectopia;6006810421;Landing Proyectopia;GTM-W3XHR7R;2022-05-23;2;ua,googtag;UA-92590580-3 G-2KLKGWLPY1;proyectopia.com;9;Orden;OK: su GA4 recibe datos (9 usuarios en 90 días) · Tiene además etiqueta de Universal Analytics (obsoleta desde 2024);Quitar la etiqueta de Universal Analytics
+Proyectopia;6006810421;walluminium.com;GTM-5S5QR2K;2023-06-23;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (830 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+Constructora Rey;6065012835;reformapontevedra.es;GTM-PN5HKT2;2022-12-02;2;ua,googtag;UA-92547919-2 G-DSPRFPS4L0;constructorarey.com;75;Orden;OK: su GA4 recibe datos (75 usuarios en 90 días) · Tiene además etiqueta de Universal Analytics (obsoleta desde 2024);Quitar la etiqueta de Universal Analytics
+Mariscos Gallego;6119330584;mariscosgallego.es;GTM-5DLKKNV;2023-07-05;17;gclidw,googtag,gaawe,awct,sp,html;G-G456129Y1N;Mariscos Gallego;2351;OK;OK: su GA4 recibe datos (2351 usuarios en 90 días);Nada
+Alpematic Vigo;6119595775;alpematicvigo.es;GTM-N8SP4GL;2023-06-21;3;googtag,gaawe;G-X9KKX4ZRH6;alpematicvigo.es;921;OK;OK: su GA4 recibe datos (921 usuarios en 90 días);Nada
+Granxa do Costado;6119622454;granxadocostado.com;GTM-KG2NNTJ;2024-06-28;1;googtag;G-3BRGC1CPC4;granxadocostado.com;553;OK;OK: su GA4 recibe datos (553 usuarios en 90 días);Nada
+Constructora Rey;6119652224;constructorarey.com;GTM-5SCT5KX;2024-01-08;13;googtag,gclidw,awct,gaawe,html;G-R0Z55L6Y90 AW-855395901;constructorarey.com;44;OK;OK: su GA4 recibe datos (44 usuarios en 90 días);Nada
+Parking Venezuela;6126295017;parkingvenezuela.com;GTM-N3SF6HN;2023-08-10;1;googtag;G-0PYX8Z410S;parkingvenezuela.com;282;OK;OK: su GA4 recibe datos (282 usuarios en 90 días);Nada
+Ledmon;6130885811;ledmon.com;GTM-WFTZKWP;2023-07-02;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (46 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+Visier Arquitectos;6140944783;www.visierarquitectos.es;GTM-K6GNHH2R;2023-08-08;1;googtag;G-7M135FMQP1;visierarquitectos.es;2474;OK;OK: su GA4 recibe datos (2474 usuarios en 90 días);Nada
+Clínica Sira Fernández;6142069286;clinicasirafernandez.com;GTM-MZHXK85D;2023-08-17;1;googtag;G-T5Y4Z2WD9E;clinicasirafernandez.com;38;OK;OK: su GA4 recibe datos (38 usuarios en 90 días);Nada
+Bioka Cocinas;6142181051;bioka.es;GTM-PFKFJNF6;2023-08-17;1;googtag;G-LPDVZ5CYW4;bioka.es;64;OK;OK: su GA4 recibe datos (64 usuarios en 90 días);Nada
+Pisque Pontevedra;6236751683;psiquepontevedra.es;GTM-KH2JPPDJ;2024-06-24;3;awct,gclidw,googtag;G-JGXSE7RHJ9;psiquepontevedra.es;419;OK;OK: su GA4 recibe datos (419 usuarios en 90 días);Nada
+Top Ventana;6238917721;Top ventana;GTM-57GB9PL2;2024-10-14;4;googtag,gclidw,awct;G-DL492FNJTV;;;Borrado;BORRADO el 09/10/2026. Contenedor antiguo de la agencia anterior (2024), GA4 G-DL492FNJTV no está en Posiciona 1;Borrar si topventana.com usa GTM-N9VM588C
+Peyca;6241913806;(sin contenedores);;;;;;;;Limpieza;Cuenta vacía (sin contenedores);Borrar la cuenta
+Peyca;6242030081;peyca.es;GTM-55M2XTZG;2025-02-22;3;googtag,gaawe,gclidw;G-XQPZ6JRJQ8;peyca.es;8534;OK;OK: su GA4 recibe datos (8534 usuarios en 90 días);Nada
+Grupo Atlántico;6244174708;grupo-atlantico.com;GTM-5X4SJQ6F;2024-08-02;1;googtag;G-76PV32Y8C2;grupo-atlantico.com;146;OK;OK: su GA4 recibe datos (146 usuarios en 90 días);Nada
+Camping suavila;6251302364;suavila.com;GTM-KH3K5SQL;2026-03-18;3;cvt_K8GSG,googtag,gaawe;G-6ND0MNMQ4Y;Acuarel Wordpress Clientes;1413;OK;OK: su GA4 recibe datos (1413 usuarios en 90 días);Nada
+Ikneo;6252516252;ikneo.com;GTM-5S4ZCC2H;2024-10-09;1;googtag;G-43P0SPN3T4;;;Limpieza;Su GA4 está ahora en Posiciona 2;Pasar la cuenta de GTM a Posiciona 2
+Rodiño Obras;6253071478;rodinoobras.com;GTM-MFRZ92TC;2026-04-22;3;gaawe,cvt_K8GSG,googtag;G-KQ57G59Q48;Acuarel Wordpress Clientes;7;OK;OK: su GA4 recibe datos (7 usuarios en 90 días);Nada
+Novo Corpo Santiago;6256851547;novocorposantiago.com;GTM-KX4Z4MV9;2024-11-07;0;;;;;Limpieza;Contenedor vacío (nunca configurado). Cliente pasado a Posiciona 2 en Analytics;Pasar a Posiciona 2 o borrar
+Asesoria10;6261986202;asesoria10.com;GTM-PZDC7SXG;2024-12-17;4;googtag,gclidw,gaawe;AW-16809604364 G-SSDEYZ864H;;;Revisar;Su GA4 no está en Posiciona 1 (propiedad en otra cuenta de Google);"Comprobar a quién pertenece el GA4; si no es nuestro, revisar"
+Andrea Bretones;6276044933;andreabretones;GTM-KWQW5RQM;2025-04-11;1;googtag;G-8VP27V6N66;andreabretones.com;162;OK;OK: su GA4 recibe datos (162 usuarios en 90 días);Nada
+Audiovisuales Vigo;6295784402;ausiovisualesvigo.com;GTM-W72S5TWL;2025-05-19;1;googtag;G-S2ME39V8FD;audiovisualesvigo.com;83;OK;OK: su GA4 recibe datos (83 usuarios en 90 días);Nada
+Beauty Room;6296123288;www.beautyroom.es;GTM-PT9S5JDV;2025-05-21;1;googtag;G-E4R8Y60GVF;beautyroom.es;184;OK;OK: su GA4 recibe datos (184 usuarios en 90 días);Nada
+Top Ventana Tiendas;6297315407;www.topventanatiendas.com/;GTM-P6FPRTND;2026-10-07;1;googtag;G-VS046SDX17;;;Limpieza;Publicado hoy (07/10/2026): ya envía datos. Su GA4 está en Posiciona 2;Pasar la cuenta de GTM a Posiciona 2 (o devolver GA a P1)
+Galaurea;6299312604;galaurea.es;GTM-TJXPN2JF;2025-06-12;1;googtag;G-BKZW08TLL6;galaurea.es;210;OK;OK: su GA4 recibe datos (210 usuarios en 90 días);Nada
+Centro estética Leire Orduña;6299765888;www.leireorduna.com;GTM-595K4ML3;2025-06-16;0;;;;;Revisar;Contenedor vacío (nunca configurado);"Si sigue siendo cliente, configurarlo; si no, borrar"
+Clínica Dental Gamero;6299939840;clinicagamero.com;GTM-WQZPFXBV;2026-05-06;5;googtag,gclidw,awct;G-1GVENF90JF AW-656449050;clinicagamero.com;791;OK;OK: su GA4 recibe datos (791 usuarios en 90 días);Nada
+Adán e Ponte;6300407849;adaneponte.com;GTM-MNZRNJ3J;2025-06-20;0;;;;;Limpieza;Contenedor vacío (nunca configurado). Cliente pasado a Posiciona 2 en Analytics;Pasar a Posiciona 2 o borrar
+Uxío Bravo Embutidos;6304172218;uxiobravoembutidos.com;GTM-P44HC4ZJ;2025-07-16;1;googtag;G-Y44J5V14CQ;uxiobravoembutidos.com;130;OK;OK: su GA4 recibe datos (130 usuarios en 90 días);Nada
+Sobrino G;6305834740;sobrinog.com;GTM-WMBVWLSJ;2025-07-28;1;googtag;G-4SGQZLLYZY;;;Limpieza;Su GA4 está ahora en Posiciona 2;Pasar la cuenta de GTM a Posiciona 2
+Unspicanoutrosnon;6305980114;unspicanoutrosnon.com;GTM-N8WQMDT8;2025-07-29;1;googtag;G-200MNVDQQ0;unspicanoutrosnon.com;36;OK;OK: su GA4 recibe datos (36 usuarios en 90 días);Nada
+edicioneslael.com;6306316008;edicioneslael.com;GTM-WDVQBS85;2025-07-31;1;googtag;G-T2TDGD20XE;;;Limpieza;Su GA4 está ahora en Posiciona 2;Pasar la cuenta de GTM a Posiciona 2
+Álvarez Prol Construcciones;6306798548;www.alvarezprol.com;GTM-NGDLXHK5;2025-08-04;1;googtag;G-9QDZ47MWNR;alvarezprol.com;66;OK;OK: su GA4 recibe datos (66 usuarios en 90 días);Nada
+Barberia203;6307801190;barberia203.com;GTM-WBJVZLV8;2025-08-11;1;googtag;G-W37B83Q06N;barberia203.com;876;OK;OK: su GA4 recibe datos (876 usuarios en 90 días);Nada
+Miraz Seguros;6308107365;www.mirazseguros.com;GTM-K6DB5J76;2025-08-13;1;googtag;G-J2XE85LZ66;mirazseguros.com;125;OK;OK: su GA4 recibe datos (125 usuarios en 90 días);Nada
+Attica Energía;6309260495;atticaenergia.es;GTM-KNRVTTXX;2025-10-30;1;googtag;G-WRFGN8TH32;atticaenergia.es;996;OK;OK: su GA4 recibe datos (996 usuarios en 90 días);Nada
+Siscop;6311164517;siscop.es;GTM-M644C4DS;2025-09-03;0;;;;;Revisar;Contenedor vacío (nunca configurado);"Si sigue siendo cliente, configurarlo; si no, borrar"
+Joana Verde;6312236681;joanaverde.com;GTM-N4T8CXHG;2025-09-10;1;googtag;G-YPMEJMFES9;joanaverde.com;9;OK;OK: su GA4 recibe datos (9 usuarios en 90 días);Nada
+Top Ventana Reformas;6313082591;topventanareforma.com;GTM-W2TC2Z29;2026-06-03;1;googtag;G-JH06FGFLLR;topventanareforma.com;1;Urgente;GTM bien publicado, pero el plugin de cookies de la web no lo carga;Revisar plugin GDPR Cookie Compliance en WordPress
+San Juan Procurador;6313260061;sanjuanprocurador.com;GTM-P2Q5H6HJ;2025-09-17;1;googtag;G-0X9HB8DF1Q;;;Revisar;Su GA4 no está en Posiciona 1 (propiedad en otra cuenta de Google);"Comprobar a quién pertenece el GA4; si no es nuestro, revisar"
+Vanesa de Toledo;6314333883;vanesadetoledo.com;GTM-KNWNWG5C;2025-11-03;1;googtag;G-Y0WV9V8HB5;vanesadetoledo.com;13;OK;OK: su GA4 recibe datos (13 usuarios en 90 días);Nada
+barreiromateriales.com;6318881044;barreiromateriales.com;GTM-TGM9LGBJ;2025-10-14;1;googtag;G-JQJPEZY8LH;barreiromateriales.com;92;OK;OK: su GA4 recibe datos (92 usuarios en 90 días);Nada
+EEG Arquitectos;6321909050;eegarquitectos.es;GTM-M2R9X2R3;2025-11-03;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (214 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+Laksmi Beauty Room;6321962377;laksmibeautyroom.com;GTM-PVDSF2FF;2025-11-03;0;;;;;Limpieza;Contenedor vacío (nunca configurado). Cliente pasado a Posiciona 2 en Analytics;Pasar a Posiciona 2 o borrar
+malasherbasartesania.com;6322653531;malasherbasartesania.com;GTM-5PFFDTPP;2025-11-10;1;googtag;G-S801N8Y9K9;malasherbasartesania.com;302;OK;OK: su GA4 recibe datos (302 usuarios en 90 días);Nada
+Fernando Aparicio;6323040791;www.fernandoaparicio.es;GTM-5FKMCPPQ;2025-11-11;1;cvt_KDQSW;;;;Revisar;Sin etiqueta de GA4 (solo plantilla personalizada);Revisar qué mide y si debe llevar GA4
+Bar Casa Samuel;6323811319;barcasasamuel.com;GTM-P82BDG22;2025-11-14;0;;;;;Revisar;Contenedor vacío (nunca configurado);"Si sigue siendo cliente, configurarlo; si no, borrar"
+Top ventana;6324954456;topventana.com/;GTM-N9VM588C;2025-12-08;6;googtag,gclidw,awct;AW-17598321417;;;Urgente;Solo Google Ads (sin GA4) · Posiciona 1 solo tiene permiso de lectura;Añadir GA4 e instalar el contenedor en la web (topventana.com no lo carga)
+TAKNARA Property Solutions;6326437574;taknaraps.com;GTM-TZ6VJ4P8;2025-12-01;0;;;;;Limpieza;Contenedor vacío (nunca configurado). Cliente pasado a Posiciona 2 en Analytics;Pasar a Posiciona 2 o borrar
+Graciela Vilagudín;6335308714;www.gracielavilagudin.com;GTM-WR4RGLBN;2026-01-21;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (478 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+Akoru Multiser;6336071448;www.akoru.es;GTM-KFVXJXNR;2026-03-20;2;googtag,gaawe;G-6YG82HNG7K;akorumultiser.es;31;OK;OK: su GA4 recibe datos (31 usuarios en 90 días);Nada
+Irve Licitaciones;6336086409;www.irvelicitaciones.es;GTM-T57VSLB2;2026-01-26;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (212 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+Heredad Moran;6338047004;www.heredadmoranlopez.com;GTM-TJ5H9SC2;2026-02-06;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (3321 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+VF Timing;6341381260;vftiming.com;GTM-54BQFGP2;2026-02-26;1;googtag;G-W23BH8YES7;joanaverde.com;657;OK;OK: su GA4 recibe datos (657 usuarios en 90 días);Nada
+Ele con Hele;6342197085;spanishlessonshelena.com;GTM-PMJ77LXX;2026-03-03;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (113 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+Deaga Estudio Juridico;6342759230;deaga.es;GTM-P3FPWMQX;2026-03-06;2;googtag,gaawe;G-HZDCB4XLKC;deaga.es;65;OK;OK: su GA4 recibe datos (65 usuarios en 90 días);Nada
+Manser Galicia;6342753794;mansergalicia.es;GTM-PSFKJZ6P;2026-03-06;2;googtag,gaawe;G-BH36PH6WZJ;mansergalicia.es;59;OK;OK: su GA4 recibe datos (59 usuarios en 90 días);Nada
+cortesdemuar.com;6343169710;cortesdemuar.com;GTM-KPFFSTV6;2026-03-09;2;googtag,gaawe;G-6RRJ32ZYEG;cortesdemuar.com;774;OK;OK: su GA4 recibe datos (774 usuarios en 90 días);Nada
+Copisteria Sanxenxo;6343785189;Copisanxenxo.es;GTM-WJXNSSF9;2026-04-21;2;googtag,cvt_K8GSG;G-EB2F7PDPGL;;;Revisar;Su GA4 no está en Posiciona 1 (propiedad en otra cuenta de Google);"Comprobar a quién pertenece el GA4; si no es nuestro, revisar"
+fundacionriasdosur;6343815659;www.fundacionriasdosur.com/;GTM-55HJ6FXB;2026-03-12;1;gaawe;;;;Arreglar;"Mal configurado: Evento GA4 que apunta a una variable que no existe; no hay etiqueta de Google";Corregir la etiqueta de GA4 (o borrar si la web ya mide por otra vía)
+Barberia Oro Negro;6345107285;www.barberiaoronegro.com/;GTM-WQDK65QT;2026-03-19;1;googtag;;;;Limpieza;"Mal configurado: La etiqueta de Google tiene un ID inválido (""GA4 event"") · Su GA4 está ahora en Posiciona 2";Pasar a Posiciona 2 (y corregir si sigue siendo cliente)
+lavaconnos;6345320747;www.lavaconnos.com/;GTM-MCK2BPRV;2026-03-20;1;gaawe;;;;Arreglar;"Mal configurado: Evento GA4 que apunta a una variable que no existe; no hay etiqueta de Google";Corregir la etiqueta de GA4 (o borrar si la web ya mide por otra vía)
+Nosolaser;6345310323;www.nosolaser.com/;GTM-WHZT6Z4S;2026-03-20;1;gaawe;;;;Arreglar;"Mal configurado: Evento GA4 que apunta a una variable que no existe; no hay etiqueta de Google";Corregir la etiqueta de GA4 (o borrar si la web ya mide por otra vía)
+Seima Soluciones SL.;6345949387;seimasoluciones.com;GTM-WWZP4G9X;2026-03-24;2;googtag,gaawe;G-0TV8M1XTZK;seimasoluciones.com;282;OK;OK: su GA4 recibe datos (282 usuarios en 90 días);Nada
+Esencia by Salgadoiro;6346151220;esenciabysalgadoiro.com;GTM-WWKXJ45Q;2026-05-07;3;cvt_K8GSG,googtag,gaawe;G-NH7MJBVJLV;;;Revisar;Su GA4 no está en Posiciona 1 (propiedad en otra cuenta de Google);"Comprobar a quién pertenece el GA4; si no es nuestro, revisar"
+Klavo Pro Tools;6346342797;www.klavo.es/;GTM-TGDHLZKZ;2026-03-26;0;;;;;Orden;Contenedor vacío. GA4 de la web sí recibe datos (45 usuarios): se mide por otra vía;Decidir: borrar o pasar la medición a GTM
+amalgama.es;6347039249;amalgama.es;GTM-TJZ9836G;2026-03-30;2;googtag,gaawe;G-W4CCJQMV29;amalgama.es;112;OK;OK: su GA4 recibe datos (112 usuarios en 90 días);Nada
+420cbdvilagarcia.es;6347257507;420cbdvilagarcia.es;GTM-WG68L4WX;2026-03-31;2;googtag,gaawe;G-8YGBHN1GS2;420cbdvilagarcia.es;324;OK;OK: su GA4 recibe datos (324 usuarios en 90 días);Nada
+coedent.com;6347418965;coedent.com;GTM-K2VTXPCR;2026-04-01;2;googtag,gaawe;G-47ZB9477M8;coedent.com;259;OK;OK: su GA4 recibe datos (259 usuarios en 90 días);Nada
+vinosdegalicia.es;6349458517;vinosdegalicia.es;GTM-K4XL56DF;2026-04-13;2;googtag,gaawe;G-VMPC99NS7P;;;Limpieza;Su GA4 está ahora en Posiciona 2;Pasar la cuenta de GTM a Posiciona 2
+besmartroof.es;6349977140;besmartroof.es;GTM-N75QW292;2026-04-15;2;googtag,gaawe;G-J6NCT28MD3;besmartroof.es;46;OK;OK: su GA4 recibe datos (46 usuarios en 90 días);Nada
+ealingworksgijonport.com;6349989912;ealingworksgijonport.com;GTM-P87N2FGV;2026-04-15;2;googtag,gaawe;G-Y0E47KWF17;ealingworksgijonport.com;80;OK;OK: su GA4 recibe datos (80 usuarios en 90 días);Nada
+elgrow14.com;6350203763;elgrow14.com;GTM-K44XLQSZ;2026-04-16;1;googtag;G-5CRWJST2CV;elgrow14;88;OK;OK: su GA4 recibe datos (88 usuarios en 90 días);Nada
+Disgama;6350363233;disgama.com;GTM-PHQZKM6B;2026-04-17;2;googtag,gaawe;G-DCPG8M7WGW;Disgama;106;OK;OK: su GA4 recibe datos (106 usuarios en 90 días);Nada
+borjaareal.com;6350780103;borjaareal.com;GTM-T729N5N9;2026-04-20;2;googtag,gaawe;G-706D54TKGB;borjaareal.com;69;OK;OK: su GA4 recibe datos (69 usuarios en 90 días);Nada
+suavila.com;6352525181;suavila.com;GTM-KWBKRTMR;2026-05-15;3;googtag,gaawe;G-6ND0MNMQ4Y;Acuarel Wordpress Clientes;1413;OK;OK: su GA4 recibe datos (1413 usuarios en 90 días);Nada
+campingoscarballos.com;6353562682;campingoscarballos.com;GTM-M4S7TSVP;2026-05-05;2;googtag,gaawe;G-TLBB1STDRC;Camping Os Carballos;3936;OK;OK: su GA4 recibe datos (3936 usuarios en 90 días);Nada
+rgbx.es;6354818831;www.rgbx.es;GTM-P6KJX2RV;2026-05-12;2;googtag,gaawe;G-3DXE071271;RGBX;60;OK;OK: su GA4 recibe datos (60 usuarios en 90 días);Nada
+donbus.es;6356624890;donbus.es;GTM-KG6WM9DB;2026-05-21;2;googtag,gaawe;G-15P0J9CQXT;donbus.es;207;OK;OK: su GA4 recibe datos (207 usuarios en 90 días);Nada
+EKOPLUS;6357815675;ekoplus.es;GTM-NVLR6QVB;2026-05-28;2;googtag,gaawe;G-8DVD6SNNP7;ekoplus.es;106;OK;OK: su GA4 recibe datos (106 usuarios en 90 días);Nada
+corpus.bio;6359261043;corpus.bio;GTM-K2CWN4GP;2026-06-05;2;googtag,gaawe;G-NSD0RJ8NDP;Corpus Computational Biomechanics;57;OK;OK: su GA4 recibe datos (57 usuarios en 90 días);Nada
+centroesteticoia.com;6361032666;centroesteticoia.com;GTM-P892RDT7;2026-06-15;2;googtag,gaawe;G-D04NVGECFJ;centroesteticoia.com;186;OK;OK: su GA4 recibe datos (186 usuarios en 90 días);Nada
+marytaboada.com;6363769284;marytaboada.com;GTM-W86NM9M9;2026-07-01;2;googtag,gaawe;G-G77HQ8M07J;marytaboada.com;246;OK;OK: su GA4 recibe datos (246 usuarios en 90 días);Nada
+castellanolg.com;6364626797;castellanolg.com;GTM-PMBNHNDD;2026-07-06;2;googtag,gaawe;G-MGN2QXLCQY;castellanolg.com;11560;OK;OK: su GA4 recibe datos (11560 usuarios en 90 días);Nada
+psicologiausera.com;6364761073;psicologiausera.com;GTM-MDV3QMGW;2026-07-07;2;googtag,gaawe;G-F0VQ4QRFVL;psicologiausera.com;1337;OK;OK: su GA4 recibe datos (1337 usuarios en 90 días);Nada
+talleresestevez.es;6365747570;talleresestevez.es;GTM-T5BW24ZT;2026-07-13;2;googtag,gaawe;G-50MH6XDS8B;talleresestevez.es;1812;OK;OK: su GA4 recibe datos (1812 usuarios en 90 días);Nada
+ecoscraneosacral.com;6376764492;ecoscraneosacral.com;GTM-T887DSZT;2026-09-14;2;googtag,gaawe;G-P7TP8J9RXJ;ecoscraneosacral.com;310;OK;OK: su GA4 recibe datos (310 usuarios en 90 días);Nada
+campingrioulla.com;6380954067;www.campingrioulla.com;GTM-PNF32HLF;2026-10-06;2;googtag,gaawe;G-7CQEDQFSTL;www.campingrioulla.com;2;Revisar;Recién publicado (06/10/2026): aún sin datos suficientes;Volver a mirar en 2-3 semanas
